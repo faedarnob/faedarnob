@@ -84,17 +84,5 @@ I’m passionate about **leveraging technology to solve real-world problems**, b
 
 ---
 
-⭐ *“Passionate about building technology that empowers people, enhances learning, and redefines human-computer interaction.”*  
-
-
-## 🐍 Fun
-<!-- Contribution snake (requires a GH Action to generate the SVG) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faedarnob/faedarnob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-
-<p align="center">Made with ❤️, Python, and a lot of headless browsers.</p>
+⭐ *“Passionate about building technology that empowers people, solves traffic challenges, enhances learning, and redefines human-computer interaction.”*  
 
