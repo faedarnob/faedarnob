@@ -1,18 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shariful+Islam%F0%9F%91%8B;Web+Scraping+Expert+%E2%80%A2+Python+Automation;Learning+Machine+Learning+%26+AI;I+turn+websites+into+clean%2C+actionable+data" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="coding" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sharifulislam141"><img alt="followers" src="https://img.shields.io/github/followers/sharifulislam141?style=for-the-badge"></a>
-  <a href="https://github.com/sharifulislam141?tab=repositories"><img alt="stars" src="https://img.shields.io/github/stars/sharifulislam141?style=for-the-badge"></a>
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=sharifulislam141&style=for-the-badge" />
-</p>
-
 ---
 # 👋 Hi, I'm Faed Ahmed Arnob  
 
