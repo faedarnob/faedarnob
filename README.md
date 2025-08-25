@@ -90,7 +90,7 @@ I’m passionate about **leveraging technology to solve real-world problems**, b
 ## 🐍 Fun
 <!-- Contribution snake (requires a GH Action to generate the SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharifulislam141/sharifulislam141/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/faedarnob/faedarnob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
